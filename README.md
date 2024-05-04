@@ -704,6 +704,7 @@ Components and native modules.
 * [react-native-loader-hud ★3](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
 * [react-native-double-buffer ★3](https://github.com/alinz/react-native-double-buffer) - Simple React Native Double Buffer View
 * [react-native-fontbase ★3](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
+* [react-native-pencil-kit ★2](https://github.com/mym0404/react-native-pencil-kit) - iOS Pencilkit Sketch Drawing in React Native
 * [react-native-units ★2](https://github.com/alexfoxy/react-native-units) - A collection of useful units and a simple grid implementation for responsive layouts in React Native.
 * [react-native-easy-checkbox ★2](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 * [react-native-scene-manager ★2](https://github.com/alinz/react-native-scene-manager) - Simple Scene Manager for React-Native
